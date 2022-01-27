@@ -12,7 +12,7 @@
 | --------- | --------- | --------- | --------- | --------- | --------- |
 | Edge 12+ | Firefox 18+ | Chrome 49+ | Safari 10+ | Safari 10+ | Opera 36+
 
-## If you like a project 💗💗💗
+## If you like a projects 💗💗💗
 
 If you like Editor.js you can support project improvements and development of new features with a donation to our collective.
 
